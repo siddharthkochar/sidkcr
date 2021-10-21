@@ -1,0 +1,16 @@
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\bin\Debug\net5.0\DontUseElse.exe
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\bin\Debug\net5.0\DontUseElse.deps.json
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\bin\Debug\net5.0\DontUseElse.runtimeconfig.json
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\bin\Debug\net5.0\DontUseElse.runtimeconfig.dev.json
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\bin\Debug\net5.0\DontUseElse.dll
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\bin\Debug\net5.0\ref\DontUseElse.dll
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\bin\Debug\net5.0\DontUseElse.pdb
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\obj\Debug\net5.0\DontUseElse.csproj.AssemblyReference.cache
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\obj\Debug\net5.0\DontUseElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\obj\Debug\net5.0\DontUseElse.AssemblyInfoInputs.cache
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\obj\Debug\net5.0\DontUseElse.AssemblyInfo.cs
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\obj\Debug\net5.0\DontUseElse.csproj.CoreCompileInputs.cache
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\obj\Debug\net5.0\DontUseElse.dll
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\obj\Debug\net5.0\ref\DontUseElse.dll
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\obj\Debug\net5.0\DontUseElse.pdb
+D:\work\github\sidkcr\object-calisthenics\2-dont-use-else\obj\Debug\net5.0\DontUseElse.genruntimeconfig.cache
